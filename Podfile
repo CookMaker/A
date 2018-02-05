@@ -7,6 +7,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 target 'A' do
 
    pod 'HandyFrame'
-   pod 'B_Category', :path => 'https://github.com/CookMaker/B_Category.git'
+   pod 'B_Category', :path => '/Users/guo/Desktop/Project/B_Category'
  
 end
